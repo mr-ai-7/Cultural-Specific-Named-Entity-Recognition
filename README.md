@@ -2,7 +2,7 @@
 
 This IIT Hyderabad NLP project uses BERT to identify Indian cultural entities in English sentences, including foods, festivals, languages, dances, and clothing. For example, in “Gondi is part of Indian tradition,” the goal is to recognize “Gondi” as a language.
 
-[View the notebook](cultural_ner.ipynb) · [View the presentation](presentation.pdf)
+ [View the presentation](presentation.pdf)
 
 ## Dataset and approach
 
